@@ -117,5 +117,5 @@ If you're viewing this as part of a portfolio or GitHub exploration:
 
 ## 🙌 Credits
 
-Made with ❤️ by **Mansib (Rexy)**  
+Made with 💙 by **Mansib (Rexy)**  
 For the laughs, the learning, and the memory of a Discord server that once was.
