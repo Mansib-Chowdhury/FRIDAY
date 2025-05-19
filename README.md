@@ -19,9 +19,9 @@ Though the server is gone, **this code stands as a memory** of how far I’ve co
 - Great for reproducible setups and experimenting
 
 💡 **Learning-Oriented Design**
-- Built entirely to learn `discord.py`, APIs, and real bot deployment
+- Built entirely to learn `discord.py`, APIs, and real bot deployment personally
 - Some commands are silly, outdated, or inefficient — left in intentionally to reflect the learning process
-- If you're learning Discord bots or Python, this project is a goldmine
+
 
 ---
 
